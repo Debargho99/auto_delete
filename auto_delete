@@ -1,13 +1,6 @@
 #!/usr/bin/python3.6
-"""AutoDelete
 
-This script auto deletes messages from your gmail inbox.
 
-The perfect usecase is deleting the OTP messages received from banks after certain time period.
-or deleting the messages received from certain services which doesn't have unsubscribe option.
-
-Many parts of this script are copied from EZGmail by Al Sweigart (https://github.com/asweigart/ezgmail)
-"""
 
 import os
 import logging
